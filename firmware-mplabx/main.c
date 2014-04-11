@@ -98,9 +98,8 @@ void main(void) {
     configure_SerialPort(19200, 1); // Modo de alta velocidade
     configure_Interrupts();
 
-    printf("Usando a serial MPlab xc8 \n\r");
-    printf("digite algo? \n\r");
-    printf("0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789");
+    printf("Usando a serial MPlab XC8 \n\r");
+    printf("Digite algo \n\r");
     for (;;) {
         if (char_received) { // Possui dado a ser lido
             printf(" \n\r caracter digitado :");
