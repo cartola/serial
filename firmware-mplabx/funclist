@@ -1,13 +1,13 @@
-___aldiv: CODE, 158 0 130
-__stringtab: STRING, 288 0 1
-__stringdata: STRING, 289 0 68
-_putch: CODE, 432 0 8
-_configure_SerialPort: CODE, 28 0 130
-_configure_Oscillator: CODE, 423 0 9
-_main: CODE, 357 0 45
+___aldiv: CODE, 159 0 130
+__stringtab: STRING, 289 0 1
+__stringdata: STRING, 290 0 44
+_putch: CODE, 412 0 8
+_configure_SerialPort: CODE, 28 0 131
+_configure_Oscillator: CODE, 420 0 7
+_main: CODE, 334 0 41
 __initialization: CODE, 23 0 2
-_configure_Ports: CODE, 440 0 7
-_printf: CODE, 402 0 21
-_configure_Interrupts: CODE, 447 0 3
+_configure_Ports: CODE, 396 0 16
+_printf: CODE, 375 0 21
+_configure_Interrupts: CODE, 427 0 3
 _RS232: CODE, 4 0 17
-Total: 441
+Total: 421
